@@ -1,2 +1,2 @@
-# battel-arena-project
-UI Manager
+# BattelArenaProject
+UI & Scene Management
